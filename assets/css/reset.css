@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: pink;
+    font-family: "Dancing Script", cursive;
+}
+
+ul, li, a {
+    list-style: none;
+    text-decoration: none;
+    color: rgb(2, 2, 2);
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInJlc2V0LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBRUE7SUFDSTtJQUNBO0lBQ0E7SUFDQTs7O0FBR0o7SUFDSTtJQUNBO0lBQ0EiLCJmaWxlIjoicmVzZXQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGNoYXJzZXQgJ3V0Zi04JztcclxuXHJcbmh0bWwsIGJvZHkge1xyXG4gICAgbWFyZ2luOiAwO1xyXG4gICAgcGFkZGluZzogMDtcclxuICAgIGJhY2tncm91bmQ6IHBpbms7ICAgIFxyXG4gICAgZm9udC1mYW1pbHk6ICdEYW5jaW5nIFNjcmlwdCcsIGN1cnNpdmU7XHJcbn1cclxuXHJcbnVsLCBsaSwgYSB7XHJcbiAgICBsaXN0LXN0eWxlOiBub25lO1xyXG4gICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xyXG4gICAgY29sb3I6IHJnYigyLCAyLCAyKTtcclxufSJdfQ== */
